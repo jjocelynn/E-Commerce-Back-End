@@ -4,6 +4,11 @@
 
 This is a server-side application for e-commerce businesses. It uses express and sequelize to communicate with the MySql Database to retrieve relevant information.
 
+## Demo Video
+
+https://youtu.be/x_ZrFmKwo5k
+
+
 ## Table of Contents
 
 - [Installation](#installation)
